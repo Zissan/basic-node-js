@@ -1,0 +1,19 @@
+{
+  "name": "part-9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basic.express.server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon basic.express.server.js"
+  },
+  "keywords": [],
+  "author": "Zissan Chowdhury <zissan.chowdhury@email.com> (https://github.com/Zissan)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
